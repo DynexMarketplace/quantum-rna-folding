@@ -28,6 +28,6 @@ Your console will perform tests and validate your account keys. You should see t
 python main.py
 ```
 
-The program will output and save the optimal grouping of the satellites into constellations in the file "result.png".
+The program will output and save the folded RNA sequence in the file "result.png".
 
 

@@ -39,6 +39,9 @@ import matplotlib.pyplot as plt
 import dynex
 import dimod
 
+# Test Dynex account setup:
+dynex.test()
+
 # Support functions
 def text_to_matrix(file_name, min_loop):
     """ Reads properly formatted RNA text file and returns a matrix of possible hydrogen bonding pairs.
